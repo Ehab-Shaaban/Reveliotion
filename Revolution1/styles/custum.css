@@ -1,0 +1,43 @@
+.one {
+      padding: 20px;
+      border: 5px;
+      outline: 5px solid black;
+      display: inline-block;
+      margin: 20px
+}
+
+.left {
+      border-style: solid;
+      border-color: red;
+}
+
+.center {
+      border-style: solid;
+      border-color: blue green;
+}
+
+.right {
+      border-style: dashed;
+      border-color: red green blue yellow;
+}
+
+.paper {
+      display: block;
+      width: 400px;
+      background-color: #dddddd;
+      padding: 20px;
+      margin: 40px;
+      outline: 10px solid #dddddd;
+}
+
+.first {
+      border-left: 10px solid red;
+}
+
+.second {
+      visibility: hidden;
+}
+
+.third {
+      border-left: 10px solid green;
+}
